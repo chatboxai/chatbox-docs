@@ -18,6 +18,7 @@
   * [如何将 Chatbox 连接到 LM Studio：分步指南](guides/providers/lm-studio.md)
 * [联网模式](guides/lian-wang-mo-shi.md)
 * [键盘快捷键](guides/shortcuts.md)
+* [本地知识库教程](guides/knowledge-base.md)
 
 ## Chatbox AI 付费方案 <a href="#chatbox-ai-premium" id="chatbox-ai-premium"></a>
 
