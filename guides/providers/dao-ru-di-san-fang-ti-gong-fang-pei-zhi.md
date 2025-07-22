@@ -2,6 +2,10 @@
 
 从版本**1.15.1**开始，Chatbox支持导入JSON格式的模型提供方配置，部分提供方官网上会提供配置，可以手动复制后在Chatbox软件中一键导入，也支持通过deep link一键导入到客户端。
 
+参考支持的提供方：
+
+* [302.ai](https://help.302.ai/docs/jie-ru-dao-ChatBox)
+
 #### 配置格式
 
 ```typescript
