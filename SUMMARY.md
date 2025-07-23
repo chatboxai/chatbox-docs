@@ -16,7 +16,7 @@
 * [模型配置](guides/providers/README.md)
   * [如何将 Chatbox 连接到远程 Ollama 服务：逐步指南](guides/providers/ollama.md)
   * [如何将 Chatbox 连接到 LM Studio：分步指南](guides/providers/lm-studio.md)
-  * [导入第三方提供方配置](guides/providers/dao-ru-di-san-fang-ti-gong-fang-pei-zhi.md)
+  * [导入第三方提供方配置](guides/providers/import-config.md)
 * [联网模式](guides/lian-wang-mo-shi.md)
 * [键盘快捷键](guides/shortcuts.md)
 * [MCP](guides/mcp.md)
