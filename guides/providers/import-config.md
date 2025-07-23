@@ -6,6 +6,7 @@
 
 * [302.AI](https://help.302.ai/docs/jie-ru-dao-ChatBox)
 * [AiHubMix](https://docs.aihubmix.com/cn/clients/ChatBox)
+* [ChatAnywhere](https://chatanywhere.apifox.cn/#chatbox-%E9%85%8D%E7%BD%AE%E7%AE%80%E5%8D%95)
 
 #### 配置格式
 
