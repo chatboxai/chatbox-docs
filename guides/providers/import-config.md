@@ -5,6 +5,7 @@
 参考支持的提供方：
 
 * [302.AI](https://help.302.ai/docs/jie-ru-dao-ChatBox)
+* [AiHubMix](https://docs.aihubmix.com/cn/clients/ChatBox)
 
 #### 配置格式
 
