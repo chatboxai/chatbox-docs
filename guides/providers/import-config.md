@@ -4,7 +4,7 @@
 
 参考支持的提供方：
 
-* [302.ai](https://help.302.ai/docs/jie-ru-dao-ChatBox)
+* [302.AI](https://help.302.ai/docs/jie-ru-dao-ChatBox)
 
 #### 配置格式
 
