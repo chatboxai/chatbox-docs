@@ -1,4 +1,3 @@
-````markdown
 ---
 icon: code
 ---
@@ -50,4 +49,3 @@ Or
 - Write the JSON configuration for the MCP service
 - Use `JSON.stringify` on the configuration, then base64 encode it
 - Append the encoded string to `chatbox://mcp/install?server=`
-````
