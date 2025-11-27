@@ -26,6 +26,7 @@
 
 * [付费方案](chatbox-ai-premium/plans.md)
 * [订阅管理](chatbox-ai-premium/subscription-management.md)
+* [在第三方应用中接入 Chatbox AI](chatbox-ai-premium/openai-compatible-api.md)
 
 ## 常见问题 <a href="#faq" id="faq"></a>
 
