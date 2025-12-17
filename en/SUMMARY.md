@@ -35,6 +35,7 @@
   * [What to Do If Model Output Is Garbled?](faq/faq/garbled-output.md)
   * [Where Is My Data Stored?](faq/faq/data-storage.md)
   * [Common Error Codes](faq/faq/error-codes.md)
+  * [Why Does the Model Claim to Be a Different Model?](faq/faq/model-identity.md)
 
 ## Contact Us <a href="#contact" id="contact"></a>
 

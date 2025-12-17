@@ -35,6 +35,7 @@
   * [模型输出乱码怎么办？](faq/faq/garbled-output.md)
   * [我的数据存储在哪里？](faq/faq/data-storage.md)
   * [常见错误代码](faq/faq/error-codes.md)
+  * [为什么模型说自己是别的模型？](faq/faq/model-identity.md)
 
 ## 联系我们 <a href="#contact" id="contact"></a>
 
