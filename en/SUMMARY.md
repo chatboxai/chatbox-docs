@@ -14,6 +14,7 @@
 ## Guides <a href="#guides" id="guides"></a>
 
 * [Model Configuration](guides/providers/README.md)
+  * [How to Configure OpenRouter in Chatbox](guides/providers/openrouter.md)
   * [How to Connect Chatbox to Remote Ollama Service: Step-by-Step Guide](guides/providers/ollama.md)
   * [How to Connect Chatbox to LM Studio: Step-by-Step Guide](guides/providers/lm-studio.md)
   * [Import Third-Party Provider Configuration](guides/providers/import-config.md)

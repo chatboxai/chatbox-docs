@@ -14,6 +14,7 @@
 ## 基础教程 <a href="#guides" id="guides"></a>
 
 * [模型配置](guides/providers/README.md)
+  * [如何在 Chatbox 中配置 OpenRouter](guides/providers/openrouter.md)
   * [如何将 Chatbox 连接到远程 Ollama 服务：逐步指南](guides/providers/ollama.md)
   * [如何将 Chatbox 连接到 LM Studio：分步指南](guides/providers/lm-studio.md)
   * [导入第三方提供方配置](guides/providers/import-config.md)
