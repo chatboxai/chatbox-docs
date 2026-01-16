@@ -18,7 +18,7 @@ For Chatbox AI paid users, you can choose Chatbox AI as the model provider for t
 
 **Vision Model:** Optional. When configured, you can add images to the knowledge base, and text in images will be extracted and indexed
 
-<figure><img src="../.gitbook/assets/1-create.png" alt=""><figcaption><p>Create Knowledge Base</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1-create.png" alt=""><figcaption><p>Create Knowledge Base</p></figcaption></figure>
 
 ### Adding Documents to the Knowledge Base
 
@@ -28,14 +28,14 @@ Drag in or click to browse files, wait for file processing to complete.
 Due to local parsing limitations, some files may fail to parse, such as PDFs with complex content layouts. In such cases, you can use other professional software to extract PDF content to text files, or you can ignore the failure and continue importing other files.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2-add-doc.png" alt=""><figcaption><p>Add Files</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2-add-doc.png" alt=""><figcaption><p>Add Files</p></figcaption></figure>
 
 ### Querying the Knowledge Base
 
 Create a new conversation, select the knowledge base you just created from the toolbar in the input box
 
-<figure><img src="../.gitbook/assets/3-select-kb.png" alt=""><figcaption><p>Select Knowledge Base</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3-select-kb.png" alt=""><figcaption><p>Select Knowledge Base</p></figcaption></figure>
 
 Then you can ask questions freely
 
-<figure><img src="../.gitbook/assets/4-query-kb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4-query-kb.png" alt=""><figcaption></figcaption></figure>
