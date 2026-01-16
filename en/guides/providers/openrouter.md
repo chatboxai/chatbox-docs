@@ -23,15 +23,15 @@ This tutorial will guide you through configuring OpenRouter in Chatbox.
 
 1. Open Chatbox. On first launch, you'll see a welcome screen - click "Setup Provider" to enter settings. If not the first launch, click the "Settings" button at the bottom of the sidebar.
 
-<figure><img src="../../.gitbook/assets/openrouter-en-1-homepage.png" alt="" width="375"><figcaption><p>Chatbox Welcome Screen</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/openrouter-en-1-homepage.png" alt="" width="375"><figcaption><p>Chatbox Welcome Screen</p></figcaption></figure>
 
 2. In the Model Provider list on the settings page, find and click "OpenRouter".
 
-<figure><img src="../../.gitbook/assets/openrouter-en-2-provider-list.png" alt="" width="375"><figcaption><p>Model Provider List</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/openrouter-en-2-provider-list.png" alt="" width="375"><figcaption><p>Model Provider List</p></figcaption></figure>
 
 3. On the OpenRouter configuration page, enter your API key in the "API Key" input field.
 
-<figure><img src="../../.gitbook/assets/openrouter-en-3-config.png" alt="" width="375"><figcaption><p>OpenRouter Configuration Page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/openrouter-en-3-config.png" alt="" width="375"><figcaption><p>OpenRouter Configuration Page</p></figcaption></figure>
 
 4. Click the "Check" button to verify that your API key is valid. If successful, you'll see a confirmation message.
 

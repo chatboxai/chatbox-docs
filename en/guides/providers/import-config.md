@@ -84,5 +84,5 @@ Where `BASE64_ENCODED_CONFIG` is the base64-encoded string of the JSON configura
 
 #### Provider Icon Specification
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 ````

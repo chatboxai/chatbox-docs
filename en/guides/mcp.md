@@ -10,9 +10,9 @@ Chatbox version 1.14 introduced MCP support. Users can configure MCP services in
 
 Go to **Settings - MCP** page, click "Add Server" to manually configure an MCP server, or select a built-in MCP service from the list.
 
-<figure><img src="../.gitbook/assets/mcp-modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mcp-modal.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/mcp-config.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mcp-config.png" alt=""><figcaption></figcaption></figure>
 
 ## MCP One-Click Installation Link
 
