@@ -1,4 +1,3 @@
-````markdown
 # Import Third-Party Provider Configuration
 
 Starting from version **1.15.1**, Chatbox supports importing model provider configurations in JSON format. Some providers offer configurations on their official websites that can be manually copied and imported with one click in the Chatbox software, or imported to the client via deep link.
@@ -85,4 +84,3 @@ Where `BASE64_ENCODED_CONFIG` is the base64-encoded string of the JSON configura
 #### Provider Icon Specification
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-````
